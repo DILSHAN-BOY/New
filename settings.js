@@ -67,7 +67,7 @@ module.exports = {
     STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
     // type sticker pack name 
 
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+    CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
     // make this true for custom emoji react  
 
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,💛,💚,💙,💜,🤎,🖤,🤍",
@@ -76,7 +76,7 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "26371475XXXX",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "94705104830",
     // add your bot owner number
 
     OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
@@ -88,7 +88,7 @@ module.exports = {
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
     // Turn true or false for automatic read msgs
 
-    AUTO_REACT: process.env.AUTO_REACT || "false",
+    AUTO_REACT: process.env.AUTO_REACT || "true",
     // make this true or false for auto react on all msgs
 
     ANTI_BAD: process.env.ANTI_BAD || "false",
@@ -97,7 +97,7 @@ module.exports = {
     ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
     // make anti link true,false for groups 
 
-    AUTO_STICKER: process.env.AUTO_STICKER || "false",
+    AUTO_STICKER: process.env.AUTO_STICKER || "true",
     // make true for automatic stickers 
 
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
